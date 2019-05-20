@@ -1,0 +1,14 @@
+% ------------ REFS: EXAMPLE
+@book{xie2018r,
+  title={R Markdown: The Definitive Guide},
+  author={Xie, Yihui and Allaire, JJ and Grolemund, Garrett},
+  year={2018},
+  publisher={CRC Press}
+}
+
+@book{xie2016bookdown,
+  title={Bookdown: Authoring Books and Technical Documents with R Markdown},
+  author={Xie, Yihui},
+  year={2016},
+  publisher={Chapman and Hall/CRC}
+}

@@ -1,0 +1,7 @@
+.idea/
+venv/
+client_secrets.json
+__pycache__
+.env
+*.rmd
+*.pdf
